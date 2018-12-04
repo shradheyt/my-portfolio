@@ -7,10 +7,11 @@ class LandingPage extends Component {
                     <Grid className="landing-grid">
                         <Cell col={12}>
                             <img 
-                                src="https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png"
+                                src="https://scontent-maa2-1.xx.fbcdn.net/v/t1.0-9/20374747_1413168372100411_1827436129673397792_n.jpg?_nc_cat=106&_nc_ht=scontent-maa2-1.xx&oh=9bb5c3bb1f6fc1570688ae461fccf93d&oe=5C63A12D"
                                 alt="avatar"
                                 className="avatar-image"
                             />
+                            
 
                             <div className="banner-text">
                                 <h1> Software Developer</h1>
