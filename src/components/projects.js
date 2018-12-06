@@ -9,7 +9,7 @@ class Projects extends Component {
         if(this.state.activeTab === 0) {
             return(
                 <div className="projects-grid">
-                    <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                    <Card shadow={5} style={{minWidth:'650', margin:'auto'}}>
                         <CardTitle style={{color:'#000', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/679/1*qUlxDdY3T-rDtJ4LhLGkEg.png) center / cover'}}>React Poject</CardTitle>
                         <CardText>
                         Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
@@ -22,7 +22,7 @@ class Projects extends Component {
                             <IconButton name="share" />
                         </CardMenu>
                      </Card>
-                     <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                     <Card shadow={5} style={{minWidth:'650', margin:'auto'}}>
                         <CardTitle style={{color:'#000', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/679/1*qUlxDdY3T-rDtJ4LhLGkEg.png) center / cover'}}>React Poject</CardTitle>
                         <CardText>
                         Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
@@ -35,7 +35,7 @@ class Projects extends Component {
                             <IconButton name="share" />
                         </CardMenu>
                      </Card>
-                     <Card shadow={5} style={{minWidth:'450', margin:'auto'}}>
+                     <Card shadow={5} style={{minWidth:'650', margin:'auto'}}>
                         <CardTitle style={{color:'#000', height:'176px', background: 'url(https://cdn-images-1.medium.com/max/679/1*qUlxDdY3T-rDtJ4LhLGkEg.png) center / cover'}}>React Poject</CardTitle>
                         <CardText>
                         Lorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem IpsumLorem Ipsum
